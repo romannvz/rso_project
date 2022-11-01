@@ -1,0 +1,17 @@
+C:\Users\Роман\source\repos\bd_\bin\Debug\rso.mdf
+C:\Users\Роман\source\repos\bd_\bin\Debug\rso_log.ldf
+C:\Users\Роман\source\repos\bd_\bin\Debug\bd_.exe.config
+C:\Users\Роман\source\repos\bd_\bin\Debug\bd_.exe
+C:\Users\Роман\source\repos\bd_\bin\Debug\bd_.pdb
+C:\Users\Роман\source\repos\bd_\obj\Debug\bd_.csproj.AssemblyReference.cache
+C:\Users\Роман\source\repos\bd_\obj\Debug\bd_.Form1.resources
+C:\Users\Роман\source\repos\bd_\obj\Debug\bd_.Properties.Resources.resources
+C:\Users\Роман\source\repos\bd_\obj\Debug\bd_.csproj.GenerateResource.cache
+C:\Users\Роман\source\repos\bd_\obj\Debug\bd_.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\bd_\obj\Debug\bd_.exe
+C:\Users\Роман\source\repos\bd_\obj\Debug\bd_.pdb
+C:\Users\Роман\source\repos\bd_\obj\Debug\bd_.auth.resources
+C:\Users\Роман\source\repos\bd_\obj\Debug\bd_.Add_Memb.resources
+C:\Users\Роман\source\repos\bd_\obj\Debug\bd_.registration.resources
+C:\Users\Роман\source\repos\bd_\obj\Debug\bd_.merop.resources
+C:\Users\Роман\source\repos\bd_\obj\Debug\bd_.csproj.SuggestedBindingRedirects.cache
